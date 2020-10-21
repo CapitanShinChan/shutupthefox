@@ -1,3 +1,5 @@
 # Shut up the Fox
-
- browser.newtabpage.activity-stream.feeds.asrouterfeed  false
+| Parameter | Desired value |
+| --- | --- |
+| browser.newtabpage.activity-stream.feeds.asrouterfeed | false |
+| toolkit.telemetry.archive.enabled | false |
